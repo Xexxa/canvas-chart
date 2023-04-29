@@ -7,7 +7,7 @@ Charts working in SerenityOS Browser/Ladybird
 
 ## Screenshot Firefox
 
-![](https://raw.githubusercontent.com/Xexxa/canvas-chart/main/screenshot-ladybird.png)
+![](https://raw.githubusercontent.com/Xexxa/canvas-chart/main/screenshot-firefox.png)
 
 
 ## Syntax
